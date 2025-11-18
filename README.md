@@ -1,4 +1,8 @@
 # tugas-akhir-4
+Nama : Syahrul Ghufron Al Hamdan 
+NPM : 2315061063
+Kelas : PPW C
+
 
 1. Form Tambah Kontak dengan validasi
 <img width="1009" height="899" alt="image" src="https://github.com/user-attachments/assets/3aab78e5-2012-46d2-9170-58f3aa2a41c0" />
